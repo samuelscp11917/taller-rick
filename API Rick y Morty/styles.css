@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #7752FE;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #190482;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+}
+
+.personaje {
+    background-color: #C2D9FF;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 20%;
+}
+
+.personaje img {
+    max-width: 100%;
+}
+
+.personaje h2 {
+    font-size: 20px;
+    margin: 5px 0;
+}
